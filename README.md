@@ -1,5 +1,7 @@
 # Detect Char of Car License Plate with Yolo-v5
 Using Yolo-v5s trained model you can detect characters of car license plate.
+## Confusion Matrix
+<img src="https://github.com/MahdiRahmani/detect_char_of_car_license_plate_with_yolov5/blob/master/char_detect_of_plate/confusion_matrix.png" width="800"/>
 
 ## Result
 <img src="https://github.com/MahdiRahmani/detect_char_of_car_license_plate_with_yolov5/blob/master/char_detect_of_plate/out/out-t%20(9).png" width="400"/><img src="https://github.com/MahdiRahmani/detect_char_of_car_license_plate_with_yolov5/blob/master/char_detect_of_plate/out/out-t%20(7).png" width="400"/>
@@ -13,3 +15,4 @@ Using Yolo-v5s trained model you can detect characters of car license plate.
 - `pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html`
 - `pip install -r req.txt`
 3. Finally, you can run 'main.py'
+###### MAHDI RAHMANI
