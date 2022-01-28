@@ -1,0 +1,13 @@
+certifi==2021.10.8
+chardet==4.0.0
+idna==2.10
+
+opencv-python==4.5.1.48
+Pillow==8.1.0
+requests==2.25.1
+tqdm==4.56.2
+typing-extensions==4.0.1
+urllib3==1.26.8
+
+
+# pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
